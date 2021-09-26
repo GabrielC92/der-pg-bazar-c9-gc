@@ -3,4 +3,4 @@
 ![pg](Playground.png)
 
 ## DER - Bazar
-![bazar](Bazar Los Dignos.png)
+![bazar](Bazar-Los-Dignos.png)
